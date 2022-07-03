@@ -96,7 +96,7 @@ li:first-child {
 .information{
     background-size:auto 100%;
     background-repeat: no-repeat;
-    background-image:url('https://mertozfidan.github.io/images/hole1.png') ;
+    background-image:url('../images/hole1.png') ;
     height: 920px;
     width:auto;
     margin-left: 125px;
@@ -124,7 +124,7 @@ li:first-child {
 /*
 .languages{
     background-color: black;
-    background:#000 url('https://mertozfidan.github.io/images/languages.png');
+    background:#000 url('../images/languages.png');
     background-size:auto 100%;
     background-repeat: no-repeat;
     height: 1024px;
@@ -163,7 +163,7 @@ li:first-child {
 }
 */
 .profile{
-    background-image: url(https://mertozfidan.github.io/images/lifeIsGoingOn.jpg);
+    background-image: url(../images/lifeIsGoingOn.jpg);
     background-size:auto 100%;
     background-repeat: no-repeat;
     height: 900px;
@@ -178,7 +178,7 @@ li:first-child {
     line-height: 1.6em;
 }
 .contact{
-    background-image: url(https://mertozfidan.github.io/images/contact.jpg);
+    background-image: url(../images/contact.jpg);
     background-size: auto 100%;
     height: 830px;
     background-repeat: no-repeat;
@@ -217,7 +217,7 @@ li:first-child {
 }
 .my-form input[type="submit"]{
     background-color: black;
-    background-image: url(https://mertozfidan.github.io/images/ring.png);
+    background-image: url(../images/ring.png);
     background-size:auto 100%;
     height: 100px;
     background-repeat: no-repeat;
@@ -328,11 +328,11 @@ audio::-webkit-media-controls-panel {
 .sound{
     position:fixed ;
     bottom: 10px; 
-    background-image: url(https://mertozfidan.github.io/images/play1.png);
+    background-image: url(../images/play1.png);
 }
 
 .skills{
-    background-image:url(https://mertozfidan.github.io/images/skills1.jpg);
+    background-image:url(../images/skills1.jpg);
     height: 750px;
     width: 1300px;
     background-repeat: no-repeat;
@@ -345,7 +345,7 @@ audio::-webkit-media-controls-panel {
     height: 50px;
 }
 .experience{
-    background-image: url(https://mertozfidan.github.io/images/experience.jpg);
+    background-image: url(../images/experience.jpg);
     background-size: 100%;
     width: 1300px;
     height: 710px;
@@ -359,7 +359,7 @@ audio::-webkit-media-controls-panel {
 }
 
 .projects{
-    background-image: url(https://mertozfidan.github.io/images/projects1.jpg);
+    background-image: url(../images/projects1.jpg);
     background-size: 100%;
     width: 1300px;
     height: 900px;
@@ -399,7 +399,7 @@ audio::-webkit-media-controls-panel {
 }
 .endJourney
 {
-    background-image: url(https://mertozfidan.github.io/images/eye.gif);
+    background-image: url(../images/eye.gif);
     background-size: 100%;
     width: 1300px;
     height: 650px;
